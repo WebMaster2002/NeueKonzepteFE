@@ -1,0 +1,7 @@
+{
+  "name": "qweet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
